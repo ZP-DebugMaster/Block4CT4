@@ -30,7 +30,7 @@ In my 10th grade year I learned what binary code was and psuedo code. Binary cod
 What is one part or element of programming that you would like to improve or grow in this year?
 
 
-I'd like to improve on being abe to explain my code and what its able to do. 
+I'd like to improve on being able to explain my code and what its able to do. 
 
 
 What is one part of programming or this class that you feel like challenges you more than others?
