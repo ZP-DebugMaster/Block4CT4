@@ -169,7 +169,7 @@ def iterativeBinarySearch(unique_list, x):
     return -1
 
 """
-
+Print is a statement that takes a number of arguments. It prints the arguments with a space in between.
 """
 def printLists():
     if len(unique_list) == 0:
@@ -181,7 +181,7 @@ def printLists():
 
 
 """
-
+This gives us flexibility to be able to have the script behave differently if it's executed directly vs. called externally.
 """
 if __name__== "__main__":
     mainProgram()
