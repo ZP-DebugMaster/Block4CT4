@@ -1,0 +1,2 @@
+Our code is a list program, which means it creates a list that users can interact with. Once you open and start the code if students had a tutorial function
+you will be asked "Would you like a tutorial?" and if you answer yes it'll give you a breakdown of what the code is and how to use it. 
